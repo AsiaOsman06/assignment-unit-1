@@ -19,7 +19,9 @@ p {
     text-align: justify;
   }
 /* Put a border around your image */
-
+img {
+    border-color: 3px solid yellow;
+  }
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
