@@ -23,5 +23,7 @@ img {
     border-color: 3px solid yellow;
   }
 /* Change the font-family of your list */
-
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+  }
 /* Add a background color to the footer element */
