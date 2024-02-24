@@ -13,7 +13,11 @@ h1 {
     color: azure;
   }
 /* Make your p tag a different color and italic */
-
+p {
+    font: italic;
+    color: beige;
+    text-align: justify;
+  }
 /* Put a border around your image */
 
 /* Change the font-family of your list */
